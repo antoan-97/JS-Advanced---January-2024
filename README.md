@@ -1,2 +1,2 @@
-# JS-Advanced---January-2024
-This is repository with MPA projects in SoftUni Course : JS Back-End - may 2024
+# JS-Advanced-January-2024
+This is repository with DOM manipulations in SoftUni Course : JS Advanced - January 2024
