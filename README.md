@@ -1,2 +1,2 @@
 # JS-Advanced-January-2024
-This is repository with DOM manipulations in SoftUni Course : JS Advanced - January 2024
+This is a repository with DOM manipulations from the SoftUni course: JS Advanced - January 2024.
